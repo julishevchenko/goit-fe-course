@@ -1,0 +1,13 @@
+header li {
+    display: inline-block;
+    margin: 30px;
+    text-transform: uppercase;
+    
+}
+header a {
+    color: 626262;
+    font-size:14px;
+}
+header a:hover {
+    color: #067BC2;
+  }
