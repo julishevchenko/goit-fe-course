@@ -1,0 +1,26 @@
+section {
+    font-size: 0;
+}
+
+article {
+    display: inline-block;
+    width: 480px;
+    font-size: 14px;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+article a {
+    display: inline-block;
+    margin: 20px;
+    text-transform: uppercase;
+    color: #b4ad9e;
+
+}
+h3 {
+    font-size: 30px;
+    color: #626262;
+}
+p {
+    color: #626262;
+    font-size: 14px;   
+}
